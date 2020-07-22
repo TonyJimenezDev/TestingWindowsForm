@@ -1,0 +1,10 @@
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe.config
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.pdb
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csprojAssemblyReference.cache
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Form1.resources
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Properties.Resources.resources
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.GenerateResource.cache
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.exe
+C:\Users\tjton\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.pdb
